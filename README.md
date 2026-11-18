@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6b46&height=160&section=header&text=Dylan%20Castor&fontSize=42&fontColor=ffffff&desc=Full-Stack%20%26%20DevOps%20Engineer%20%C2%B7%20TypeScript%2C%20Kubernetes%2C%20AI&descSize=16&descAlignY=72" />
+    <img src="banner.svg" width="100%" />
 </p>
 
 Full-stack & DevOps engineer based in France. I design, ship and run complete products: TypeScript and Python on the app side, Kubernetes and CI/CD on the infra side, and AI built in where it pays off.
