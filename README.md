@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="banner.svg" width="100%" />
+  <img src="banner.svg" width="100%" />
 </p>
 
 Full-stack & DevOps engineer based in France. I design, ship and run complete products: TypeScript and Python on the app side, Kubernetes and CI/CD on the infra side, and AI built in where it pays off.
@@ -9,6 +9,7 @@ Full-stack & DevOps engineer based in France. I design, ship and run complete pr
 - **A Shopify A/B testing app** (SaaS, on the Shopify App Store): flicker-free test engine on live stores, Bayesian and frequentist stats, Admin GraphQL API, Theme App Extensions, Web Pixels.
 - **An AI tool to redesign UI components**: oRPC contract served by Hono and Fastify in parallel, PostgreSQL + Drizzle, pg-boss jobs, live updates over SSE, Claude behind a provider-agnostic port.
 - **TightStack** *(private for now)*: a strict TypeScript / React template that keeps AI coding agents on rails. Hexagonal architecture enforced by 98 dependency-cruiser rules, 75 custom ast-grep rules, strict tsconfig and type-aware lint, all in one gate run locally, in git hooks and in CI.
+- **A trading platform in Python microservices**: market data, grid engine, trade execution and an API gateway, built with a teammate.
 - **[cluster_infra](https://github.com/DylanC-Code/cluster_infra)**: the source of truth of my production k3s cluster. Ansible for the machines, layered clusters / platform / apps, ADRs, runbooks and tests.
 
 ### How I work
@@ -26,16 +27,9 @@ Full-stack & DevOps engineer based in France. I design, ship and run complete pr
   <img src="https://skillicons.dev/icons?i=gcp,linux,c,cpp,rust&perline=10" />
 </p>
 
-### Activity (public + private repos)
+### Languages
 
-<p>
-  <img src="metrics.languages.svg" width="49%" />
-  <img src="metrics.calendar.svg" width="49%" />
-</p>
-
-### Low-level side
-
-Trained at 42 Paris: C, C++, assembly. Pinned below: an [HTTP server in pure x86-64 assembly](https://github.com/DylanC-Code/x86_64-http-server) and a [kernel written from scratch](https://github.com/DylanC-Code/KFS_1__42).
+<img src="languages.svg" width="100%" />
 
 ---
 
